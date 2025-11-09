@@ -1,7 +1,7 @@
 # Capstone project Assignment 1
-# Batch 1
-# Name: Arnav Jena
-# Reg.No: 2241010022
+# Batch 10
+# Name: Lipika Soye
+# Reg.No: 2241019548
 **Project Topic:** File Explorer Application
 
 ```cpp
